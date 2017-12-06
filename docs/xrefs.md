@@ -12,4 +12,6 @@ For each, we systematically compared 11 ontologies: the Disease Ontology, Orphan
 ![Table 1](table1.png)
 
 Source data [here](https://docs.google.com/spreadsheets/d/1rVK1-c9xU-HNDdVFhtL43I36iXUi9V1WpKJTg2Hglts/edit#gid=928680550).
+
 Interactive visualization [here](http://blockbuilder.org/jmcmurry/361baa73ad989048be54f9114f2f13c8)
+![D3 viz](d3_thumbnail.png)
